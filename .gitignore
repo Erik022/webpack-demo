@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+#package-lock
+package-lock.json
+
+# bundle
+dist
+
+# System Files
+.DS_Store
+Thumbs.db
